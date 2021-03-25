@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\Billing System.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\Billing System.exe
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\Billing System.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing System.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing_System.loginform.resources
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing System.exe
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing System.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing_System.SendCode.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing_System.Reset_Password.resources
